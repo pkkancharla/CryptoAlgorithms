@@ -1,12 +1,12 @@
 #   Contributing to the project
   
 1) Log in to your github
-2) Fork the project https://github.com/pkkancharla/CryptoAlgorithms
-3) Open the terminal on your computer and clone the project that you have forked.
+2) Forking the project https://github.com/pkkancharla/CryptoAlgorithms would just create a copy in your account and you cannot yet contribute back to the original repo.
+3) Clone your copy of git repo to make changes in your repo. Open the terminal on your computer and clone the project that you have forked.
 ```
    # git clone https://github.com/<vmkoppula>/CryptoAlgorithms.git
 ```
-4) Add original project repo https://github.com/pkkancharla/CryptoAlgorithms.git as the 'remote upstream' for fetching any updates from the original repo.
+4) To contribute back to the original repo https://github.com/pkkancharla/CryptoAlgorithms.git add it as the 'remote upstream' for your local repo clone, this will allow you to fetch updates from the original repo.
 ```
    # git remote add upstream https://github.com/pkkancharla/CryptoAlgorithms.git
 ```
